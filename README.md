@@ -39,7 +39,7 @@ Full detail: [docs/assumptions_and_risks.md](docs/assumptions_and_risks.md).
 | Slide deck (7 slides) | [Promotion Effectiveness Decision Deck.pdf](Promotion%20Effectiveness%20Decision%20Deck.pdf), outline in [docs/deck_outline.md](docs/deck_outline.md) |
 | Production mapping (Azure) | [docs/production_mapping.md](docs/production_mapping.md) |
 
-Dashboard: `[add the Tableau Public link here once published]`. Walkthrough video: `[add the video link here once recorded]`.
+**Dashboard status:** Tableau dashboard 1 ("Do promotions increase sales?", built from 4 sheets) is done. Dashboards 2 and 3 are planned and fully specified in the quickstart. Tableau Public link: `[add once published]`. Walkthrough video: `[add once recorded]`.
 
 ## Method in brief
 - **Cleaning:** a stratified 50-store sample (fixed seed); closed-store days and open days with zero sales removed; missing competitor distance filled with the median plus a flag; outliers flagged, not deleted. Every step and row count is in the cleaning log.
@@ -67,7 +67,8 @@ Python 3.12. Notebooks use relative paths and fixed seeds, and run top to bottom
 Python (pandas, NumPy, scikit-learn, LightGBM, matplotlib), MLflow (open source, local), Tableau Public for the dashboard.
 
 ## Not included (planned for later)
-A natural-language "ask the analyst" assistant (text-to-SQL on the data plus search over the project documents) was scoped but removed for time.
+- Tableau dashboards 2 (where promotions work best, click-to-filter) and 3 (forecast reliability): the data files and step-by-step build guide are ready in [docs/tableau_quickstart.md](docs/tableau_quickstart.md).
+- A natural-language "ask the analyst" assistant (text-to-SQL on the data plus search over the project documents) was scoped but removed for time.
 
 ## Author
 Faizan, M.Tech Software Engineering, DTU.

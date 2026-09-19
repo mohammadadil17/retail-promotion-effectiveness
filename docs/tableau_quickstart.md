@@ -1,5 +1,7 @@
 # Tableau quickstart (for a first-time user)
 
+> **Current scope:** sheets 1-4 and Dashboard 1 are built. Sheets 5-10 and Dashboards 2 and 3 are planned for later; the steps below are ready when you are.
+
 You will build **3 dashboards (the pages people see) from 10 small sheets (the building blocks)**. No formulas and no table relationships: every chart uses a tiny ready-made file. Time: about **60-90 minutes** the first time.
 
 Pictures of the finished result are in `tableau/mockups/`: one image per dashboard, plus `how_it_is_built.png`, which shows which sheet goes where. Your Tableau version will look similar, not identical.
