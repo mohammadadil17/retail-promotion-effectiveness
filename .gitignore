@@ -16,4 +16,5 @@ data/raw/*
 CLAUDE.md
 Project Plan .rtf
 Book1.twb
-*.twbx
+.~*
+*.twbr

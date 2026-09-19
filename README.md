@@ -39,7 +39,7 @@ Full detail: [docs/assumptions_and_risks.md](docs/assumptions_and_risks.md).
 | Slide deck (7 slides) | [Promotion Effectiveness Decision Deck.pdf](Promotion%20Effectiveness%20Decision%20Deck.pdf), outline in [docs/deck_outline.md](docs/deck_outline.md) |
 | Production mapping (Azure) | [docs/production_mapping.md](docs/production_mapping.md) |
 
-**Dashboard status:** Tableau dashboard 1 ("Do promotions increase sales?", built from 4 sheets) is done. Dashboards 2 and 3 are planned and fully specified in the quickstart. Tableau Public link: `[add once published]`. Walkthrough video: `[add once recorded]`.
+**Dashboard:** Tableau dashboard 1, "Do promotions increase sales?" (4 sheets: promo uplift, stores gaining, extra sales, promo vs no promo), is included as [tableau/promotion_effectiveness.twbx](tableau/promotion_effectiveness.twbx). Open it with the free [Tableau Public](https://public.tableau.com) app. Dashboards 2 and 3 are planned and fully specified in the quickstart. A picture of the intended design for all three is in [tableau/mockups/](tableau/mockups/).
 
 ## Method in brief
 - **Cleaning:** a stratified 50-store sample (fixed seed); closed-store days and open days with zero sales removed; missing competitor distance filled with the median plus a flag; outliers flagged, not deleted. Every step and row count is in the cleaning log.
