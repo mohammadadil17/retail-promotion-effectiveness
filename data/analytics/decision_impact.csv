@@ -1,0 +1,6 @@
+StoreType,sample_stores,chain_stores,model_uplift_pct,extra_sales_per_promo_day,incremental_share_pct,breakeven_cost_10pct_margin,breakeven_cost_20pct_margin,breakeven_cost_30pct_margin,indicative_annual_extra_revenue
+a,24,602,37.21,2414.93,27.12,241.49,482.99,724.48,189580233.6
+b,4,17,19.56,1432.2,16.36,143.22,286.44,429.66,3175006.41
+c,8,148,37.99,2063.41,27.53,206.34,412.68,619.02,39823484.96
+d,14,348,35.31,2147.9,26.1,214.79,429.58,644.37,97473221.13
+all,50,1115,,,,,,,330051946.1

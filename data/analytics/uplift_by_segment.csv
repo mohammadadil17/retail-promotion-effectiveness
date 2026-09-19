@@ -1,0 +1,9 @@
+segment_type,segment,stores,model_uplift_pct,promo_days_run,avg_extra_sales_per_promo_day,total_extra_sales_holdout,eda_uplift_pct
+store_type,a,24,37.21,360,2414.93,869376.39,40.84
+store_type,b,4,19.56,60,1432.2,85931.89,20.53
+store_type,c,8,37.99,120,2063.41,247608.78,46.1
+store_type,d,14,35.31,210,2147.9,451059.7,38.93
+competition_distance,Closest,13,32.93,195,2468.27,481311.84,39.35
+competition_distance,Near,12,36.48,180,2017.3,363113.48,41.61
+competition_distance,Far,12,36.26,180,2028.01,365042.23,38.4
+competition_distance,Farthest,13,35.97,195,2279.53,444509.23,38.8
