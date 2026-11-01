@@ -71,4 +71,4 @@ Python (pandas, NumPy, scikit-learn, LightGBM, matplotlib), MLflow (open source,
 - A natural-language "ask the analyst" assistant (text-to-SQL on the data plus search over the project documents) was scoped but removed for time.
 
 ## Author
-Faizan, M.Tech Software Engineering, DTU.
+Sheikh Mohmmad Adil
